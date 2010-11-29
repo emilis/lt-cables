@@ -1,0 +1,460 @@
+Key,Pattern,Value
+AA,AA,Aruba
+AADP,AADP,Automated Data Processing
+ABLD,ABLD,Buildings and Grounds
+ABUD,ABUD,Budget Services and Financial Systems
+AC,AC,Antigua and Barbuda
+ACKM,ACKM,COMSEC Key Management
+ACOA,ACOA,Communication Operations and Administration
+ADCO,ADCO,Diplomatic Courier Operations
+ADPM,ADPM,Diplomatic Pouch and Mail
+AE,AE,United Arab Emirates
+AEMR,AEMR,Emergency Planning and Evacuation
+AF,AF,Afghanistan
+AFIN,AFIN,Financial Management
+AFSI,AFSI,Foreign Service Institute
+AFSN,AFSN,Foreign Service National Personnel
+AG,AG,Algeria
+AGAO,AGAO,General Accounting Office
+AINF,AINF,Information Management Services
+AINR,AINR,INR Program Administration
+AINT,AINT,Internet Administration
+AJ,AJ,Azerbaijan
+AL,AL,Albania
+ALOW,ALOW,Allowances
+AMED,AMED,Medical Services
+AMGT,AMGT,Management Operations
+AMTC,AMTC,Telecommunications Equipment Maintenance
+ANET,ANET,"Communications, Circuits, and Networks "
+AO,AO,Angola
+AODE,AODE,Employees Abroad
+AOMS,AOMS,Office Management Specialist Issues
+AORC,AORC,International Organizations and Conferences
+APCS,APCS,Personal Computers
+APER,APER,Personnel
+AQ,AQ,American Samoa
+AR,AR,Argentina
+ASCH,ASCH,U.S. Sponsored Schools
+ASEC,ASEC,Security
+ASIG,ASIG,Inspector General Activities
+ASUP,ASUP,Supplies and Equipment
+ATRN,ATRN,Transportation Services
+AU,AU,Austria
+AV,AV,Anguilla
+AY,AY,Antarctica
+BA,BA,Bahrain
+BA,BA,Bahrain
+BB,BB,Barbados
+BB,BB,Barbados
+BC,BC,Botswana
+BC,BC,Botswana
+BD,BD,Bermuda
+BD,BD,Bermuda
+BF,BF,"Bahamas, The"
+BF,BF,"Bahamas, The"
+BG,BG,Bangladesh
+BG,BG,Bangladesh
+BH,BH,Belize
+BH,BH,Belize
+BK,BK,Bosnia and Herzegovina
+BK,BK,Bosnia and Herzegovina
+BL,BL,Bolivia
+BM,BM,Burma
+BN,BN,Benin
+BO,BO,Belarus
+BQ,BQ,Navassa Island
+BR,BR,Brazil
+BS,BS,Bassas da India
+BT,BT,Bhutan
+BU,BU,Bulgaria
+BV,BV,Bouvet Island
+BX,BX,Brunei
+BY,BY,Burundi
+CA,CA,Canada
+CASC,CASC,Assistance to Citizens
+CB,CB,Cambodia
+CD,CD,Chad
+CE,CE,Sri Lanka
+CF,CF,Congo (Brazzaville)
+CFED,CFED,Federal Agency Services
+CG,CG,Congo (Kinshasa)
+CH,CH,China (Mainland)
+CI,CI,Chile AO Angola
+CJ,CJ,Cayman Islands
+CJAN,CJAN,Judicial Assistance and Notarial Services
+CK,CK,Cocos (Keeling) Islands
+CLOK,CLOK,Visa Lookout
+CM,CM,Cameroon
+CMGT,CMGT,Consular Administration and Management
+CN,CN,Comoros
+CO,CO,Colombia
+CPAS,CPAS,Passport and Citizenship
+CQ,CQ,Northern Mariana Islands
+CR,CR,Coral Sea Islands
+CS,CS,Costa Rica
+CT,CT,Central African Republic
+CU,CU,Cuba
+CV,CV,Cape Verde
+CVIS,CVIS,Visas
+CW,CW,Cook Islands
+CY,CY,Cyprus
+DA,DA,Denmark
+DJ,DJ,Djibouti
+DQ,DQ,Jarvis Island
+EAGR,EAGR,Agriculture and Forestry
+EAID,EAID,Foreign Economic Assistance
+EAIR,EAIR,Civil Aviation
+EC,EC,Ecuador
+ECIN,ECIN,Economic Integration and Cooperation
+ECON,ECON,Economic Conditions
+ECPS,ECPS,Communications and Postal Systems
+EFIN,EFIN,Financial and Monetary Affairs
+EFIS,EFIS,Commercial Fishing and Fish Processing
+EG,EG,Egypt
+EI,EI,Ireland
+EIND,EIND,Industry and Manufacturing
+EINT,EINT,Economic and Commercial Internet
+EINV,EINV,Foreign Investments
+EK,EK,Annobon
+EK,EK,Equatorial Guinea
+ELAB,ELAB,Labor Sector Affairs
+ELTN,ELTN,Land Transportation
+EMIN,EMIN,Minerals and Metals
+EN,EN,Estonia
+ENRG,ENRG,Energy and Power
+EPET,EPET,Petroleum and Natural Gas
+ER,ER,Eritrea
+ES,ES,El Salvador
+ET,ET,Ethiopia
+ETRD,ETRD,Foreign Trade
+ETTC,ETTC,Trade and Technology Controls
+EWWT,EWWT,Waterborne Transportation
+EZ,EZ,Czech Republic
+FG,FG,French Guiana
+FI,FI,Aland Islands
+FI,FI,Finland
+FJ,FJ,Fiji
+FK,FK,Falkland Islands (Islas Malvinas)
+FO,FO,Faroe Islands
+FP,FP,French Polynesia
+FQ,FQ,Baker Island
+FR,FR,Corsica
+FR,FR,France
+FS,FS,French Southern and Antarctic Lands
+GA,GA,Gambia (The)
+GB,GB,Gabon
+GG,GG,Georgia
+GH,GH,Ghana
+GI,GI,Gibraltar
+GJ,GJ,Grenada
+GK,GK,Guernsey
+GL,GL,Greenland
+GM,GM,Germany
+GoP,GoP,Government of Pakistan
+GP,GP,Guadeloupe
+GQ,GQ,Guam
+GR,GR,Crete
+GR,GR,Greece
+GT,GT,Guatemala
+GV,GV,Guinea
+GWOT,GWOT,Global war on terror
+GY,GY,Guyana
+GZ,GZ,Gaza Strip
+HA,HA,Haiti
+HK,HK,Hong Kong
+HM,HM,Heard Island and McDonald Islands
+HO,HO,Honduras
+HQ,HQ,Howland Island
+HR,HR,Croatia
+HU,HU,Hungary
+IC,IC,Iceland
+ID,ID,Indonesia
+IM,IM,"Man, Isle of"
+IO,IO,Diego Garcia
+IO,IO,British Indian Ocean Territory
+IO,IO,Chagos Archipelago
+IP,IP,Clipperton Island
+IR,IR,Iran
+ISI,ISI,Pakistani secret service
+IV,IV,Cote D’Ivoire
+IZ,IZ,Iraq
+JA,JA,Japan
+JA,JA,Okinawa
+JA,JA,Ryukyu Islands
+JE,JE,Jersey
+JM,JM,Jamaica
+JN,JN,Jan Mayen
+JO,JO,Jordan
+JQ,JQ,Johnston Atoll
+JU,JU,Juan de Nova Island
+KE,KE,Kenya
+KG,KG,Kyrgyzstan
+KN,KN,Korea (North)
+KQ,KQ,Kingman Reef
+KR,KR,Kiribati
+KS,KS,Korea (South)
+KT,KT,Christmas Island
+KU,KU,Kuwait
+KV,KV,Kosovo
+KZ,KZ,Kazakhstan
+LA,LA,Laos
+LE,LE,Lebanon
+LG,LG,Latvia
+LH,LH,Lithuania
+LI,LI,Liberia
+LO,LO,Slovakia
+LQ,LQ,Palmyra Atoll
+LS,LS,Liechtenstein
+LT,LT,Lesotho
+LU,LU,Luxembourg
+LY,LY,Libya
+MA,MA,Madagascar
+MARR,MARR,Military and Defense Arrangements
+MASS,MASS,Military Assistance and Sales
+MB,MB,Martinique
+MC,MC,Macau
+MCAP,MCAP,Military Capabilities
+MD,MD,Moldova
+MF,MF,Mayotte
+MG,MG,Mongolia
+MH,MH,Montserrat
+MI,MI,Malawi
+MK,MK,"Macedonia, The Former Yugoslav Republic of"
+ML,ML,Mali
+MN,MN,Monaco
+MNUC,MNUC,Military Nuclear Applications
+MO,MO,Morocco
+MOPS,MOPS,Military Operations
+MP,MP,Mauritius
+MQ,MQ,Midway Islands
+MR,MR,Mauritania
+MT,MT,Malta
+MU,MU,Oman
+MV,MV,Maldives
+MW,MW,Montenegro
+MX,MX,Mexico
+MZ,MZ,Mozambique
+NA,NA,Netherlands Antilles
+NC,NC,New Caledonia
+NE,NE,Niue
+NF,NF,Norfolk Island
+NG,NG,Niger
+NH,NH,Vanuatu
+NI,NI,Nigeria
+NL,NL,Netherlands
+NP,NP,Nepal
+NR,NR,Nauru
+NS,NS,Suriname
+NU,NU,Nicaragua
+NZ,NZ,Antipodes Islands
+NZ,NZ,Auckland Islands
+NZ,NZ,Bounty Islands
+NZ,NZ,Chatham Islands
+NZ,NZ,Kermadec Islands
+NZ,NZ,New Zealand
+ODIP,ODIP,U.S. Diplomatic Representation
+ODIP,ODIP,U.S. Diplomatic Representation
+OEXC,OEXC,Educational and Cultural Exchange Operations
+OEXC,OEXC,Educational and Cultural Exchange Operations
+OFDP,OFDP,Foreign Diplomats and Foreign Missions
+OFDP,OFDP,Foreign Diplomats and Foreign Missions
+OIIP,OIIP,International Information Programs
+OIIP,OIIP,International Information Programs
+OPDC,OPDC,Diplomatic Correspondence
+OPDC,OPDC,Diplomatic Correspondence
+OPRC,OPRC,Public Relations and Correspondence
+OPRC,OPRC,Public Relations and Correspondence
+OREP,OREP,U.S. Congressional Travel
+OREP,OREP,U.S. Congressional Travel
+OSCI,OSCI,Science Grants
+OSCI,OSCI,Science Grants
+OTRA,OTRA,Travel
+OTRA,OTRA,Travel
+OVIP,OVIP,Visits and Travel of Prominent Individuals and Leaders
+OVIP,OVIP,Visits and Travel of Prominent Individuals and Leaders
+PA,PA,Paraguay
+PARM,PARM,Arms Controls and Disarmament
+PBTS,PBTS,"National Boundaries, Territories, and Sovereignty "
+PC,PC,Pitcairn Islands
+PE,PE,Peru
+PF,PF,Paracel Islands
+PG,PG,Spratly Islands
+PGOV,PGOV,Internal Governmental Affairs
+PHSA,PHSA,High Seas Affairs
+PHUM,PHUM,Human Rights
+PINR,PINR,Intelligence
+PINS,PINS,National Security
+PK,PK,Pakistan
+PL,PL,Poland
+PNAT,PNAT,National Independence
+PO,PO,Azores
+PO,PO,Portugal
+PO,PO,Madeira Islands
+PP,PP,Papua New Guinea
+PREF,PREF,Refugees
+PREL,PREL,External Political Relations
+PROP,PROP,Propaganda and Psychological Operations
+PS,PS,Palau
+PTER,PTER,Terrorists and Terrorism
+PU,PU,Guinea-Bissau
+QA,QA,Qatar
+RE,RE,Reunion
+RM,RM,Marshall Islands
+RO,RO,Romania
+RP,RP,Philippines
+RQ,RQ,Puerto Rico
+RS,RS,Russia
+RS,RS,Wrangel Islands
+RW,RW,Rwanda
+SA,SA,Saudi Arabia
+SB,SB,Saint Pierre and Miquelon
+SC,SC,Saint Kitts and Nevis
+SE,SE,Seychelles
+SF,SF,South Africa
+SG,SG,Senegal
+SH,SH,Ascension Island
+SH,SH,Gough Island
+SH,SH,Saint Helena
+SH,SH,Tristan da Cunha
+SI,SI,Slovenia
+SL,SL,Sierra Leone
+SM,SM,San Marino
+SN,SN,Singapore
+SP,SP,Balearic Islands
+SP,SP,Mallorca
+SP,SP,Canary Islands
+SP,SP,Spain
+SR,SR,Serbia
+ST,ST,Saint Lucia
+SU,SU,Sudan
+SV,SV,Svalbard
+SW,SW,Sweden
+SY,SY,Syria
+SZ,SZ,Switzerland
+TAG,TAG,S/Terms Handbook
+TAG,TAG,S/Terms Handbook
+TBIO,TBIO,Biological and Medical Science
+TD,TD,Trinidad and Tobago
+TE,TE,Tromelin Island
+TH,TH,Thailand
+TI,TI,Tajikistan
+TINT,TINT,Internet Technology
+TK,TK,Turks and Caicos Islands
+TL,TL,Tokelau
+TN,TN,Tonga
+TNGD,TNGD,Engineering Research and Development
+TP,TP,Sao Tome and Principe
+TPHY,TPHY,Physical Sciences
+TRGY,TRGY,Energy Technology
+TS,TS,Tunisia
+TSPA,TSPA,Space Activities
+TSPL,TSPL,Science and Technology Policy
+TT,TT,East Timor
+TU,TU,Turkey
+TV,TV,Tuvalu
+TW,TW,Taiwan
+TX,TX,Turkmenistan
+TZ,TZ,Tanzania
+UG,UG,Uganda
+UNSC,UNSC,UN Security Council
+UK,UK,United Kingdom
+UP,UP,Ukraine
+UV,UV,Burkina Faso
+UY,UY,Uruguay
+UZ,UZ,Uzbekistan
+VC,VC,Saint Vincent and the Grenadines
+VE,VE,Venezuela
+VI,VI,British Virgin Islands
+VM,VM,Vietnam
+VQ,VQ,US Virgin Islands
+VT,VT,Vatican City
+WA,WA,Namibia
+WF,WF,Wallis and Futuna
+WI,WI,Western Sahara
+WQ,WQ,Wake Island
+WS,WS,Samoa
+WZ,WZ,Swaziland
+XA,XA,Africa
+XA,XA,Africa
+XB,XB,East Asia and Pacific (Pacific Basin)
+XB,XB,East Asia and Pacific
+XC,XC,Southeast Asia
+XC,XC,Southeast Asia
+XD,XD,South Asia
+XD,XD,South Asia
+XE,XE,East Asia
+XE,XE,East Asia
+XF,XF,Middle East
+XF,XF,Middle East
+XG,XG,Europe
+XG,XG,Europe
+XH,XH,Eastern Europe
+XH,XH,Eastern Europe
+XI,XI,North Africa
+XI,XI,North Africa
+XK,XK,Central America
+XK,XK,Central America
+XL,XL,Caribbean
+XL,XL,Caribbean
+XM,XM,Latin America
+XM,XM,Latin America
+XO,XO,Indian Ocean Area
+XO,XO,Indian Ocean Area
+XQ,XQ,Arctic Ocean Area
+XQ,XQ,Arctic Ocean Area
+XR,XR,South America
+XR,XR,South America
+XS,XS,North America
+XS,XS,North America
+XT,XT,Western Europe
+XT,XT,Western Europe
+XU,XU,Australia - New Zealand Region
+XU,XU,Australia-New Zealand Region
+XV,XV,South Pacific Ocean Area
+XV,XV,South Pacific Ocean Area
+XW,XW,East Africa
+XW,XW,East Africa
+XX,XX,World Wide
+XX,XX,Worldwide
+XY,XY,West Africa
+XY,XY,West Africa
+XZ,XZ,Scandinavia
+XZ,XZ,Scandinavia
+YI,YI,Yugoslavia
+YM,YM,Yemen
+ZA,ZA,Zambia
+ZB,ZB,Baltic States
+ZB,ZB,Baltic States
+ZF,ZF,Central Africa
+ZF,ZF,Central Africa
+ZH,ZH,North Atlantic Area
+ZH,ZH,North Atlantic Area
+ZI,ZI,Zimbabwe
+ZJ,ZJ,Transcaucasus
+ZJ,ZJ,Transcaucasus
+ZK,ZK,Central Asia
+ZK,ZK,Central Asia
+ZL,ZL,Balkan States
+ZL,ZL,Balkan States
+ZM,ZM,Mediterranean Sea Area
+ZM,ZM,Mediterranean Sea Area
+ZN,ZN,North Pacific Area
+ZN,ZN,North Pacific Area
+ZO,ZO,North Asia
+ZO,ZO,North Asia
+ZP,ZP,Persian Gulf Area
+ZP,ZP,Persian Gulf Area
+ZR,ZR,Arabian Peninsula
+ZR,ZR,Arabian Peninsula
+ZS,ZS,Southern Europe
+ZS,ZS,Southern Europe
+ZT,ZT,South Atlantic Area
+ZT,ZT,South Atlantic Area
+ZU,ZU,Southern Africa
+ZU,ZU,Southern Africa
+SIPDIS,SIPDIS|S I P D I S,Secret Internet Protocol Distribution
+NOFORN,NOFORN,No foreign nationals
+E.O. 12958,E.O. 12958|EO 12958,Executive order 12958 relating to state secrets and freedom of information
+DECL,DECL,Declassification date; when the document's classified status comes up for review
+GOI,GOI,Government of Italy
+GoI,GoI,Government of Italy

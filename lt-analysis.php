@@ -3,12 +3,12 @@
 /**
  * Build tag map:
  */
-$tags = file("tags.txt");
+$tags = fopen("Babelglossary.csv", "r");
 $tagmap = array();
-foreach ($tags as $line) {
-    $line = explode("\t", $line);
-    $tagmap[trim($line[1])] = trim($line[3]);
+while ($row = fgetcsv($tags)) {
+    $tagmap[$row[0]] = $row[2];
 }
+fclose($tags);
 
 /**
  * Build a table from Lithuanian cables:

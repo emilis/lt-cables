@@ -12,8 +12,12 @@ $ run.sh
 
 Data sources:
 
-all-cables.csv:
-    https://docs.google.com/uc?id=0B4nYZs4MzlZbNjhkOTFkZDMtYTJkMi00OThkLThjMmItYzU2N2M5MzkyM2Ix&export=download&hl=en
+    all-cables.csv:
+        https://docs.google.com/uc?id=0B4nYZs4MzlZbNjhkOTFkZDMtYTJkMi00OThkLThjMmItYzU2N2M5MzkyM2Ix&export=download&hl=en
 
-tags.txt:
-    https://spreadsheets.google.com/pub?key=0Auo8KSVAc9r8dHdnMGhjOXhhNzY0LTE0M0NqNmNTRHc&hl=en&output=html
+    Babelglossary.csv:
+        https://spreadsheets.google.com/pub?key=0Auo8KSVAc9r8dHdnMGhjOXhhNzY0LTE0M0NqNmNTRHc&hl=en&output=csv
+
+Source code:
+
+https://github.com/emilis/lt-cables
