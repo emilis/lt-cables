@@ -29,12 +29,21 @@ fclose($lt_cables);
 /**
  * Output HTML for the table:
  */
-echo '<h1>Analysis of documents related to Lithuania from WikiLeaks Cablegate</h1>';
-echo '<fieldset><legend>README</legend><pre>';
+
+?>
+<!DOCTYPE html>
+<html><head>
+<title>List of documents related to Lithuania from WikiLeaks Cablegate</title>
+</head><body>
+<h1>List of documents related to Lithuania from WikiLeaks Cablegate</h1>
+<fieldset><legend>README</legend><pre><?php
+
 readfile("README");
-echo '</pre></fieldset>';
-echo '<table border="1"><thead><tr><th>Time</th><th>Origin</th><th>Tags</th></tr></thead><tbody>';
-echo "\n";
+
+?></pre></fieldset>
+<table border="1"><thead><tr><th>Time</th><th>Source</th><th>Tags</th></tr></thead><tbody>
+<?php
+
 foreach ($table as $row) {
     echo '<tr>';
     echo '<td>' . $row[0] . '</td>';
@@ -42,4 +51,7 @@ foreach ($table as $row) {
     echo '<td>' . implode('<br>', $row[2]) . '</td>';
     echo "</tr>\n";
 }
-echo '</tbody></table>';
+
+?>
+</tbody></table>
+</body></html>
