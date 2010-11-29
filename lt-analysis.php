@@ -29,6 +29,10 @@ fclose($lt_cables);
 /**
  * Output HTML for the table:
  */
+echo '<h1>Analysis of documents related to Lithuania from WikiLeaks Cablegate</h1>';
+echo '<fieldset><legend>README</legend><pre>';
+readfile("README");
+echo '</pre></fieldset>';
 echo '<table border="1"><thead><tr><th>Time</th><th>Origin</th><th>Tags</th></tr></thead><tbody>';
 echo "\n";
 foreach ($table as $row) {
